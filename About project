@@ -1,0 +1,9 @@
+Classes on which the model is trained and classified are - ['Typing', 'PlayingTabla', 'YoYo', 'TableTennisShot', 'PlayingGuitar', 'SkyDiving', 'Rafting', 'Skiing']
+Model deployment Link - [  https://yourvideoclassifier.streamlit.app/  ]
+test accuracy achieved - 76.55%.
+Models and libraries used - 
+1. OpenCV for video frame extraction
+2. InceptionV3 for pre-trained feature extraction
+3. GRU (RNN) for sequence modeling
+4. TensorFlow/Keras for model development
+5.Streamlit for real-time web-based deployment
